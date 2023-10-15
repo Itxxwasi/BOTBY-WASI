@@ -1,12 +1,12 @@
 
-<h1 align="center"> sɪɢᴍᴀ ᴹᴰ </h1>
+<h1 align="center"> 𝗗𝗔𝗥𝗞_𝗖𝗥𝗘𝗔𝗧𝗢𝗥_𝗪𝗔𝗦𝗜 </h1>
 </p>
 <p align="center">
   <a href="https://www.youtube.com/@InnoxentTech">
-    <img alt=Support height="350" src="https://telegra.ph/file/03e49e6e2057568db8926.jpg"> 
+    <img alt=Support height="350" src="https://telegra.ph/file/f31476e69b3ce14e8e0ce.jpg"> 
     </p>
     <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=34&duration=3500&pause=1000&color=F7F7F7&center=true&width=435&lines=Welcome+To+SIGMA-MD;Multi-Device+Whatsapp+Bot;Developed+By+Maher+Zubair;Released+Date+1%2F10%2F2023." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=34&duration=3500&pause=1000&color=F7F7F7&center=true&width=435&lines=Welcome+To+WASI_MD;Multi-Device+Whatsapp+Bot;Developed+By+wasi+md;Released+Date+1%2F10%2F2023." alt="Typing SVG" /></a>
   </p>
 
 <p align="center">
@@ -81,7 +81,7 @@ mongodb+srv://Maher-Zubair:SIGMA-MD@zubi.9g6b16y.mongodb.net/?retryWrites=true&w
  <p align="centre">
   <a href="mailto:HELP_SIGMA-MD@outlook.com">
     <img src="https://i.ibb.co/Kx8NXxT/mail-gmail-22737.png" align="centre" width="90" />
-   <a href="https://wa.me/923466319114?text=Hi%20Maher-Zubair%20Sir...%20I%20need%20some%20help%20in%20SIGMA-MD">
+   <a href="https://wa.me/923259823531?text=Hi%20Maher-Zubair%20Sir...%20I%20need%20some%20help%20in%20SIGMA-MD">
     <img src="https://i.ibb.co/2MLVZwm/whatsapp-logo-icon-181644.png" align="centre" width="90" />
 
 ##
@@ -99,4 +99,4 @@ mongodb+srv://Maher-Zubair:SIGMA-MD@zubi.9g6b16y.mongodb.net/?retryWrites=true&w
 - *I will only Assist You in Bot Deployment and Hosting, Not in Bot Development*
 - *If You Modify The Bot And Face Any Issue, I will not Responsible Because It is not Possible For Me To Help Everyone*
 - *This Bot is For Fun and Educational Purpose, I will not Responsible If You Spam and Misuse It*
-- ***Regards [Maher-Zubair](https://github.com/Maher-Zubair)***
+- ***Regards [WASI-TECH](https://github.com/Maher-Zubair)***
