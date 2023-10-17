@@ -2,7 +2,7 @@
 <h1 align="center"> 𝗗𝗔𝗥𝗞_𝗖𝗥𝗘𝗔𝗧𝗢𝗥_𝗪𝗔𝗦𝗜 </h1>
 </p>
 <p align="center">
-  <a href="https://www.youtube.com/@InnoxentTech">
+  <a href="https://youtube.com/@technicalvibs1?si=RkneN4s3wGR9-OUg">
     <img alt=Support height="350" src="https://telegra.ph/file/f31476e69b3ce14e8e0ce.jpg"> 
     </p>
     <p align="center">
