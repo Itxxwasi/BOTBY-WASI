@@ -59,7 +59,7 @@
 5. ***Deploy on [`Heroku,`](https://mkk-eta.vercel.app/heroku.html)  Watch Tutorial 
  [`How To Deploy on Heroku`](https://youtu.be/7hhuzIkhVfE).***
 6. ***Deploy FREE on `Codespace,`  Watch Tutorial  [`How To Deploy on Codespace`](https://youtu.be/q59Fyn0Dq_k)***
-7. ***Deploy on [`Replit,`](https://replit.com/github/Maher-Zubair/SIGMA-MD)  Watch Tutorial  [`How To Deploy on Replit`](https://youtu.be/Ax4nO5PIHFA).***
+7. ***Deploy on [`Replit,`](https://replit.com/github/itxxwasi/BOTBY-WASI)  Watch Tutorial  [`How To Deploy on Replit`](https://youtu.be/Ax4nO5PIHFA).***
 8. ***Install [`External Plugins`](https://github.com/Maher-Zubair/SIGMA-MD_Plugins).***
 ##
 
