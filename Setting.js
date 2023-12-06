@@ -7,7 +7,7 @@ global.owner = process.env.OWNER_NUMBER || '923466319114' ; // Add Your Number w
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://Maher-Zubair:SIGMA-MD@zubi.9g6b16y.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp" ; // put mongodb key here
 global.port=5000  ;
 global.audio = '' ; 
-global.video = '' ;
+global.video = 'https://telegra.ph/file/856995f1d93f19624a862.mp4' ;
 global.blockJids = process.env.BLOCK_JID ||'120363169665426586@g.us' ;
 global.allowJids = process.env.ALLOW_JID ||'120363169665426586@g.us' ;
 global.email = 'HELP_SIGMA-MD@outlook.com' ; 
