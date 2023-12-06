@@ -100,3 +100,5 @@ mongodb+srv://Maher-Zubair:SIGMA-MD@zubi.9g6b16y.mongodb.net/?retryWrites=true&w
 - *If You Modify The Bot And Face Any Issue, I will not Responsible Because It is not Possible For Me To Help Everyone*
 - *This Bot is For Fun and Educational Purpose, I will not Responsible If You Spam and Misuse It*
 - ***Regards [WASI-TECH](https://github.com/Maher-Zubair)***
+- ****```
+    THIS IS MODIFAY REPO GET FROM MAHER ZUBAIR ALL CARDIT FOR HIM IF YOU DEPLOY THIS REPO GIVE CRADIT TO HIM```
